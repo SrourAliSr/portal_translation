@@ -454,5 +454,11 @@
   "accept_member": "قبول العضو",
   "reject_member": "رفض العضو",
   "are_you_sure_you_want_to_accept": "هل أنت متأكد أنك تريد قبول هذا العضو؟",
-  "are_you_sure_you_want_to_reject": "هل أنت متأكد أنك تريد رفض هذا العضو؟"
+  "are_you_sure_you_want_to_reject": "هل أنت متأكد أنك تريد رفض هذا العضو؟",
+  "manage_your_account_settings_and_set_e-mall_preferences":"قم بإدارة إعدادات حسابك وتعيين تفضيلات البريد الإلكتروني",
+  "general_settings": "الإعدادات العامة",
+  "contact_info":"معلومات الاتصال",
+  "you_can_manage_verified_email_adresses_in_your_email_settings":"يمكنك إدارة عناوين البريد الإلكتروني الموثقة في إعدادات البريد الإلكتروني الخاصة بك",
+  "this_is_the_public_displayed_contact_info":"هذه هي معلومات الاتصال المعروضة علنًا",
+  "this_is_the_role_of_the_user":"هذا هو دور المستخدم"
 }
