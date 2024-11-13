@@ -460,5 +460,16 @@
   "contact_info":"معلومات الاتصال",
   "you_can_manage_verified_email_adresses_in_your_email_settings":"يمكنك إدارة عناوين البريد الإلكتروني الموثقة في إعدادات البريد الإلكتروني الخاصة بك",
   "this_is_the_public_displayed_contact_info":"هذه هي معلومات الاتصال المعروضة علنًا",
-  "this_is_the_role_of_the_user":"هذا هو دور المستخدم"
+  "this_is_the_role_of_the_user":"هذا هو دور المستخدم",
+  "logo":"الشعار",
+  "press_to_add/change_logo":"اضغط لإضافة/تغيير الشعار",
+  "no_logo_seleected":"لم يتم اختيار شعار",
+  "this_is_the_company_public_name":"هذا هو الاسم العام للشركة",
+  "company_address":"عنوان الشركة",
+  "this_is_the_company_public_address":"هذا هو العنوان العام للشركة",
+  "support_team_info":"معلومات فريق الدعم",
+  "url":"الرابط",
+  "add_links_to_your_website,_blog,_or_social_media_profiles":"أضف روابط إلى موقع الويب الخاص بك، أو مدونة، أو ملفاتك الشخصية على وسائل التواصل الاجتماعي",
+  "update_profile":"تحديث الملف الشخصي",
+  "edit_profile":"تعديل الملف الشخصي"
 }
