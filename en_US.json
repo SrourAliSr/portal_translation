@@ -462,5 +462,16 @@
   "contact_info":"Contact Info",
   "you_can_manage_verified_email_adresses_in_your_email_settings":"You can manage verified email adresses in you email settings",
   "this_is_the_public_displayed_contact_info":"This is the public displayed contact info",
-  "this_is_the_role_of_the_user":"This is the role of the user"
+  "this_is_the_role_of_the_user":"This is the role of the user",
+  "logo":"Logo",
+  "press_to_add/change_logo":"Press to add/change logo",
+  "no_logo_seleected":"No logo selected",
+  "this_is_the_company_public_name":"This is the company public name",
+  "company_address":"Company Address",
+  "this_is_the_company_public_address":"This is the company public address",
+  "support_team_info":"Support Team Info",
+  "url":"URL",
+  "add_links_to_your_website,_blog,_or_social_media_profiles":"Add links to your website, blog, or social media profiles",
+  "update_profile":"Update Profile",
+  "edit_profile":"Edit Profile"
 }
