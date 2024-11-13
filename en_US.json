@@ -456,5 +456,11 @@
   "accept_member": "Accept Member",
   "reject_member": "Reject Member",
   "are_you_sure_you_want_to_accept": "Are you sure you want to accept this member?",
-  "are_you_sure_you_want_to_reject": "Are you sure you want to reject this member?"
+  "are_you_sure_you_want_to_reject": "Are you sure you want to reject this member?",
+  "general_settings": "General Settings",
+  "manage_your_account_settings_and_set_e-mall_preferences":"Manange your account settings add set e-mail pereferences",
+  "contact_info":"Contact Info",
+  "you_can_manage_verified_email_adresses_in_your_email_settings":"You can manage verified email adresses in you email settings",
+  "this_is_the_public_displayed_contact_info":"This is the public displayed contact info",
+  "this_is_the_role_of_the_user":"This is the role of the user"
 }
