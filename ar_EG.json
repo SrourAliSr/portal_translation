@@ -471,5 +471,14 @@
   "url":"الرابط",
   "add_links_to_your_website,_blog,_or_social_media_profiles":"أضف روابط إلى موقع الويب الخاص بك، أو مدونة، أو ملفاتك الشخصية على وسائل التواصل الاجتماعي",
   "update_company":"تحديث الشركة",
-  "edit_company":"تعديل الشركة"
+  "edit_company":"تعديل الشركة",
+  "team_invitation": "دعوة الفريق",
+  "this_is_the_public_group_name": "هذا هو اسم المجموعة العامة",
+  "this_is_the_public_group_address": "هذا هو عنوان المجموعة العامة",
+  "this_is_the_value_of_vat": "هذا هو قيمة الضريبة على القيمة المضافة",
+  "save": "حفظ",
+  "enable_users_to_join_the_group_using_the_group_code_without_your_approval": "تمكين المستخدمين من الانضمام إلى المجموعة باستخدام رمز المجموعة دون موافقتك",
+  "auto_accept_join_requests" : "قبول طلبات الانضمام تلقائيًا",
+  "group_invite_code": "رمز دعوة المجموعة",
+  "members_joining_via_the_group_code_will_automatically_receive_the_member_role_and_the_default_public_pricing_you_can_modify_these_settings_later_in_the_members_screen": "الأعضاء الذين ينضمون عبر رمز المجموعة سيحصلون تلقائيًا على دور العضو والتسعير العام الافتراضي. يمكنك تعديل هذه الإعدادات لاحقًا في شاشة الأعضاء"
 }
