@@ -473,5 +473,14 @@
   "url":"URL",
   "add_links_to_your_website,_blog,_or_social_media_profiles":"Add links to your website, blog, or social media profiles",
   "update_company":"Update Company",
-  "edit_company":"Edit Company"
+  "edit_company":"Edit Company",
+  "team_invitation": "Team Invitation",
+  "this_is_the_public_group_name": "This is the public group name",
+  "this_is_the_public_group_address": "This is the public group address",
+  "this_is_the_value_of_vat": "This is the value of vat",
+  "save": "Save",
+  "enable_users_to_join_the_group_using_the_group_code_without_your_approval": "Enable users to join the group using the group code without your approval",
+  "auto_accept_join_requests": "Auto accept join requests",
+  "group_invite_code": "Group invite code",
+  "members_joining_via_the_group_code_will_automatically_receive_the_member_role_and_the_default_public_pricing_you_can_modify_these_settings_later_in_the_members_screen": "Members joining via the group code will automatically receive the member role and the default public pricing you can modify these settings later in the members screen"
 }
