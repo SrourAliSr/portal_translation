@@ -485,5 +485,7 @@
   "users_will_be_notified_about_the_charge_point_updates": "سيتم إعلام المستخدمين بالتحديثات الخاصة بنقطة الشحن",
   "users_wont_be_notified_about_charge_point_updates": "لن يتم إعلام المستخدمين بالتحديثات الخاصة بنقطة الشحن",
   "true": "صح",
-  "false": "خطأ"
+  "false": "خطأ",
+  "yes": "نعم",
+  "no": "لا"
 }
