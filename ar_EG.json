@@ -480,5 +480,10 @@
   "enable_users_to_join_the_group_using_the_group_code_without_your_approval": "تمكين المستخدمين من الانضمام إلى المجموعة باستخدام رمز المجموعة دون موافقتك",
   "auto_accept_join_requests" : "قبول طلبات الانضمام تلقائيًا",
   "group_invite_code": "رمز دعوة المجموعة",
-  "members_joining_via_the_group_code_will_automatically_receive_the_member_role_and_the_default_public_pricing_you_can_modify_these_settings_later_in_the_members_screen": "الأعضاء الذين ينضمون عبر رمز المجموعة سيحصلون تلقائيًا على دور العضو والتسعير العام الافتراضي. يمكنك تعديل هذه الإعدادات لاحقًا في شاشة الأعضاء"
+  "members_joining_via_the_group_code_will_automatically_receive_the_member_role_and_the_default_public_pricing_you_can_modify_these_settings_later_in_the_members_screen": "الأعضاء الذين ينضمون عبر رمز المجموعة سيحصلون تلقائيًا على دور العضو والتسعير العام الافتراضي. يمكنك تعديل هذه الإعدادات لاحقًا في شاشة الأعضاء",
+  "notify_users": "إعلام المستخدمين",
+  "users_will_be_notified_about_the_charge_point_updates": "سيتم إعلام المستخدمين بالتحديثات الخاصة بنقطة الشحن",
+  "users_wont_be_notified_about_chatge_point_updates": "لن يتم إعلام المستخدمين بالتحديثات الخاصة بنقطة الشحن",
+  "true": "صح",
+  "false": "خطأ"
 }
