@@ -487,5 +487,7 @@
   "users_will_be_notified_about_the_charge_point_updates": "Users will be notified about the charge point updates",
   "users_wont_be_notified_about_charge_point_updates": "Users wont be notified about Charge point updates",
   "true": "True",
-  "false": "False"
+  "false": "False",
+  "yes": "Yes",
+  "no": "No"
 }
