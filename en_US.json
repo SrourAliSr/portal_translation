@@ -482,5 +482,10 @@
   "enable_users_to_join_the_group_using_the_group_code_without_your_approval": "Enable users to join the group using the group code without your approval",
   "auto_accept_join_requests": "Auto accept join requests",
   "group_invite_code": "Group invite code",
-  "members_joining_via_the_group_code_will_automatically_receive_the_member_role_and_the_default_public_pricing_you_can_modify_these_settings_later_in_the_members_screen": "Members joining via the group code will automatically receive the member role and the default public pricing you can modify these settings later in the members screen"
+  "members_joining_via_the_group_code_will_automatically_receive_the_member_role_and_the_default_public_pricing_you_can_modify_these_settings_later_in_the_members_screen": "Members joining via the group code will automatically receive the member role and the default public pricing you can modify these settings later in the members screen",
+  "notify_users": "Notify Users",
+  "users_will_be_notified_about_the_charge_point_updates": "Users will be notified about the charge point updates",
+  "users_wont_be_notified_about_charge_point_updates": "Users wont be notified about Charge point updates",
+  "true": "True",
+  "false": "False"
 }
